@@ -9,7 +9,7 @@ SpamGuard AI is a high-performance, real-time message classification system. It 
 ## How does it work?
 The project uses a machine learning pipeline to process incoming text. When a message is submitted, it is tokenized and passed through a trained neural network. The model analyzes the linguistic patterns and context to assign a probability score. If the score exceeds a certain threshold, the message is flagged as "Spam"; otherwise, it is marked as "Ham" (safe).
 
-<img width="1536" height="1000" alt="readmephoto" src="https://github.com/user-attachments/assets/ca6a9942-c05f-43fd-84e8-606b885a50c4" />
+<img alt="readmephoto" src="https://github.com/user-attachments/assets/ca6a9942-c05f-43fd-84e8-606b885a50c4" />
 
 ## 🛡️ What's Next for SpamGuard AI
 Spam has become a problem not only for email but for the entire internet ecosystem. Our goal is to protect the user with an artificial intelligence shield, regardless of which platform they are on.
