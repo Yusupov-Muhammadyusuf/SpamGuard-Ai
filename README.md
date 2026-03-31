@@ -1,6 +1,6 @@
 # SpamGuard-Ai
 
-<img width="800" alt="SpamMessageClassifier" src="https://github.com/user-attachments/assets/1a9c80b1-03ed-4d74-82cc-7e1c39a606c9">
+<img alt="projectphoto" src="https://github.com/user-attachments/assets/8156ff41-be38-4b95-a790-318c07fecedd" />
 
 ## Inspiration
 With the rise of digital communication, spam messages have evolved from mere nuisances into serious security threats. Many existing filters are slow or fail to catch sophisticated phishing attempts in real-time. I wanted to build a solution that acts like a digital immune system—detecting and neutralizing spam the millisecond it arrives.
