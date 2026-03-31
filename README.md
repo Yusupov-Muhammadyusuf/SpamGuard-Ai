@@ -12,7 +12,7 @@ The project uses a machine learning pipeline to process incoming text. When a me
 ## 🛡️ What's Next for SpamGuard AI
 Spam has become a problem not only for email but for the entire internet ecosystem. Our goal is to protect the user with an artificial intelligence shield, regardless of which platform they are on.
 
-### 1. Multi-Platform Browser Extension
+### Multi-Platform Browser Extension
 While users browse the internet, **SpamGuard AI** becomes their "invisible assistant."
 
 * **Social Media Filtration:** Real-time hiding of fraudulent links, "suspicious" investment offers, and bot-generated comments on platforms such as **Facebook**, **Instagram**, and **LinkedIn**.
